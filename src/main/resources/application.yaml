@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  spring:
+    mvc:
+      static-path-pattern: /static/**
+      static-locations: classpath:/static/
+
+
+
+

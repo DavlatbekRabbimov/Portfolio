@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "three": "^0.154.0",
+    "three-gltf-loader": "^1.111.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.7",
+    "@types/three": "^0.153.0",
+    "babel-loader": "^9.1.2",
+    "path": "^0.12.7",
+    "vite": "^4.4.2",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "name": "devlop-portfolio",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
